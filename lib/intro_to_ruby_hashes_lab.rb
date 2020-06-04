@@ -9,6 +9,7 @@ end
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
   test = [name: "Grace Hopper"]
+  return test
 end
 
 
