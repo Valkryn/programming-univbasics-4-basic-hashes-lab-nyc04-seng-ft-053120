@@ -3,12 +3,12 @@ def new_hash
 end
 
 def my_hash
-  greek_myth = {Zeus: "King of Gods"}
+  greek_myth = {zeus: "King of Gods"}
 end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-  pioneer = [:name => "Grace Hopper"]
+  pioneer = { name: "Grace Hopper"}
   return pioneer
 end
 
